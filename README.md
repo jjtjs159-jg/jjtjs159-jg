@@ -1,4 +1,5 @@
 ### 안녕하세요 👋
+Frontend Analytics code is private
 
 <!--
 **jjtjs159-jg/jjtjs159-jg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
