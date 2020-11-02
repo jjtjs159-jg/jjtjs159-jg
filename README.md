@@ -1,4 +1,7 @@
 ### 안녕하세요 👋
+
+Resume: https://www.notion.so/jakma/Portfolio-2ee7f8f26a8d42af96e28dc264b109c7
+
 repo
 1. analytics: private
 
