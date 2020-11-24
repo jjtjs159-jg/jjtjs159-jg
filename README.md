@@ -2,9 +2,6 @@
 
 Resume: https://www.notion.so/jakma/Portfolio-2ee7f8f26a8d42af96e28dc264b109c7
 
-repo
-1. analytics: private
-
 <!--
 **jjtjs159-jg/jjtjs159-jg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
