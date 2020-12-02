@@ -1,5 +1,9 @@
 ### 안녕하세요 👋
 
+Plask(2020.12 ~ )
+Whatvita(2018.12 ~ 2020.10)
+Cosmo(2018.03 ~ 2018.09)
+
 Resume: https://www.notion.so/jakma/Portfolio-2ee7f8f26a8d42af96e28dc264b109c7
 
 <!--
