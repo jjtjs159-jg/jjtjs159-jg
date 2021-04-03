@@ -18,8 +18,8 @@ Cosmo 본사 소속 프로그래밍 교육 기관
 모바일IT전공 전문학사
 
 
-Resume: https://www.notion.so/jakma/Portfolio-2ee7f8f26a8d42af96e28dc264b109c7 <br />
-Channel: https://www.notion.so/jakma/Develop-b5c7a4e157624d6b99ab22b3638c1a63
+Channel: https://www.notion.so/jakma/Develop-b5c7a4e157624d6b99ab22b3638c1a63 <br />
+Portfolio: https://www.notion.so/jakma/Portfolio-2ee7f8f26a8d42af96e28dc264b109c7 <br />
 
 <!--
 **jjtjs159-jg/jjtjs159-jg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
