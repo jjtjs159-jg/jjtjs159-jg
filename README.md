@@ -21,6 +21,9 @@ Cosmo 본사 소속 프로그래밍 교육 기관
 
 Portfolio: https://www.notion.so/jakma/Portfolio-2ee7f8f26a8d42af96e28dc264b109c7 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjtjs159-jg)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **jjtjs159-jg/jjtjs159-jg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
